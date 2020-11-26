@@ -8,7 +8,7 @@ const [email,setEmail]=useState('');
     return(
         <SafeAreaView style={styles.login}>
                 
-                  
+                  sdasdasdasdasdasd
                 <ImageBackground style={styles.image} source={Login}>
 
                 </ImageBackground>
